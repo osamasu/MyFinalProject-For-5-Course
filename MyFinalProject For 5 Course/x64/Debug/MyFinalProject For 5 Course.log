@@ -1,0 +1,12 @@
+﻿  MyFinalProject For 5 Course.cpp
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\osama.h(96,26): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\osama.h(96,40): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\osama.h(425): warning C4715: 'legend::GetRandomCharacter': not all control paths return a value
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\MyFinalProject For 5 Course.cpp(179): warning C4715: 'SimpleCalculator': not all control paths return a value
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\MyFinalProject For 5 Course.cpp(322): warning C4715: 'GetFinalResultText': not all control paths return a value
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\MyFinalProject For 5 Course.cpp(949): warning C4715: 'Turn_ToPlay': not all control paths return a value
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\MyFinalProject For 5 Course.cpp(985): warning C4715: 'ChangeTurn_Vs_Computer': not all control paths return a value
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\MyFinalProject For 5 Course.cpp(998): warning C4715: 'ChangeTurn_Vs_Player2': not all control paths return a value
+C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\MyFinalProject For 5 Course\MyFinalProject For 5 Course.cpp(1025): warning C4715: 'ChangeLetter': not all control paths return a value
+  LINK : C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\x64\Debug\MyFinalProject For 5 Course.exe not found or not built by the last incremental link; performing full link
+  MyFinalProject For 5 Course.vcxproj -> C:\Users\lenovo\Desktop\Learning-Projects\MyFinalProject For 5 Course\x64\Debug\MyFinalProject For 5 Course.exe
